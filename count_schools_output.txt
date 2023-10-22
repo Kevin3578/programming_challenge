@@ -1,0 +1,36 @@
+PS C:\Users\kevin\Desktop\programming_challenge> python .\count_schools.py
+Total Schools: 34779
+Schools by State
+AL: 1606
+AK: 525
+AZ: 2147
+AR: 1174
+CA: 9969
+OR: 1
+NV: 1
+CO: 1730
+CT: 1120
+DE: 238
+DC: 229
+MD: 1
+C: 1
+FL: 4379
+GA: 2513
+HI: 285
+ID: 730
+IL: 4533
+IN: 2031
+OH: 1
+IA: 1565
+Schools by Metro-centric locale
+3: 8180
+7: 4276
+4: 3829
+8: 4291
+1: 4862
+6: 2592
+2: 5383
+N: 1096
+5: 270
+City with most schools: CHICAGO (657 schools)
+Unique cities with at least one school: 4852
